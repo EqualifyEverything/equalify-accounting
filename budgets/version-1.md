@@ -4,7 +4,7 @@
 $76,489.39
 
 ### Goal:
-Spend under $33,000 and sell three subscriptions by September ($17,160). This would allow us to do another three-month development push to Version 1.5 then and a third (Version 2) before February 2025, with each three-month push costing $33,000. We are aiming to sell three licenses every three months. In that case, we'll also be able to have enough cash for a fourth push in February. That February push should get us to $200,000 in revenue by August 2025, when we'll hopefully increase development spending to reach our ultimate goal of sustainability by 2028 with 100M Equalified fixes logged and about $2M in revenue. For more on our budgets, see our Cash Flow Analysis here: https://www.icloud.com/numbers/02599l_VAp7k1nW3c9BLDsm9w#Equalify_Five-Year_Financials 
+Spend under $33,000 and sell three subscriptions by September ($17,160). This would allow us to do another three-month development push to Version 1.5 then and a third (Version 2) before February 2025, with each three-month push costing $33,000. We are aiming to sell three licenses every three months. In that case, we'll also be able to have enough cash for a fourth push in February. That February push should get us to $200,000 in revenue by August 2025, when we'll hopefully increase development spending to reach our ultimate goal of sustainability by 2028 with 1B Equalified fixes logged and about $50M in annual recurring revenue. For more on our budgets, see our Cash Flow Analysis here: https://www.icloud.com/numbers/02599l_VAp7k1nW3c9BLDsm9w#Equalify_Five-Year_Financials 
 
 ### Expected Expenses:
 - $677.20: Decubing Bill + $50 uninvoiced
